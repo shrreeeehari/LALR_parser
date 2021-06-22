@@ -14,5 +14,6 @@ S' -> S <br>
 S -> AA <br>
 A -> aA | b
 
+<img src="images/Iris.png" height="600">
 
 
