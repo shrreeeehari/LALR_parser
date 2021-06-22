@@ -27,4 +27,7 @@ Its important to note that, <br>
   number of states CLR = n4 then, <br>
   n1 = n2 = n3 <= n4
 
+<img src="images/Parsing.jpg" height="300">
+
+Reference: https://www.geeksforgeeks.org/slr-clr-and-lalr-parsers-set-3/
 
